@@ -98,6 +98,7 @@ blockquote:after, q:after{content:' �'; font-size:26px; line-height:0;}
 #container #homepage article p{margin:4px; padding:0; font-size:15px}
 #container #homepage article ul li{margin:4px; padding-top:5px; font-size:15px}
 #container #homepage .three_third img{float:left; width:960px; margin:0 10px 10px 0; padding:4px; border:1px solid #DEDEDE;}
+#container #homepage .museum img{float:left; width:300px; margin:0 10px 10px 0; padding:4px; border:1px solid #DEDEDE;}
 #container #homepage article img{float:left; width:300px; margin:0 10px 10px 0; padding:4px; border:1px solid #DEDEDE;}
 #container #homepage article footer{margin:10px 0 0 0;}
 :root{
